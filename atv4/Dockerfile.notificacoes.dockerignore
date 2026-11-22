@@ -1,0 +1,10 @@
+**
+!package.json
+!package-lock.json
+!tsconfig.json
+!tsconfig.build.json
+!src/
+!src/**
+!atv4/
+!atv4/atividade.cjs
+!atv4/mensageria.cjs
